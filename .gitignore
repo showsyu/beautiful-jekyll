@@ -13,6 +13,10 @@ _site/
 
 ### JetBrains ###
 
+# .idea folder
+.idea
+.idea/**
+
 # User-specific stuff:
 .idea/**/workspace.xml
 .idea/**/tasks.xml
