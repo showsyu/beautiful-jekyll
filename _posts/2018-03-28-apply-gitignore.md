@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Git] .gitignore 수정 후 적용하기"
+title: ".gitignore 수정 후 적용하기"
 tags: [git]
 ---
 
